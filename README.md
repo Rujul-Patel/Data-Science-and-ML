@@ -16,3 +16,4 @@ Collection of Data-Science and Machine Learning Projects
 -----
 
 ### [1. MNIST Handwritten Letters using Tensorflow](Deep-Learning/MNIST_Handwritten_Digits.ipynb)
+### [2. CNN to detect Pneumonia from a Patient's Chest X-Ray](https://www.kaggle.com/rujulpatel/cnn-pneumonia-detection)
